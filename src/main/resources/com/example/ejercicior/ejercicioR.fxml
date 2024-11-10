@@ -121,7 +121,7 @@
                         </GridPane>
                         <FlowPane alignment="CENTER">
                            <children>
-                              <Button fx:id="btnEnviar2" mnemonicParsing="false" onAction="#enviar" text="Enviar" />
+                              <Button fx:id="btEnviar2" mnemonicParsing="false" onAction="#enviar" text="Enviar" />
                            </children>
                            <VBox.margin>
                               <Insets bottom="5.0" top="20.0" />
